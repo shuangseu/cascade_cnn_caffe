@@ -1,6 +1,7 @@
 # cascade_cnn_caffe
 Thanks for anson0910's code [https://github.com/anson0910/CNN_face_detection] and I modify it and fix some bugs
 based on the paper Li et al., “A Convolutional Neural Network Cascade for Face Detection, ” 2015 CVPR
+
 I follow this and train model
 1.download face and non-face dataset
 2.create negative patches by running create_negative.py with data_base_dir modified to the folder containing the negative images 
